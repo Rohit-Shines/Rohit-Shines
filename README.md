@@ -38,6 +38,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-shines" alt="rohit-shines" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/I don't drink coffee, teach me a skill 😀 "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="I don't drink coffee, teach me a skill 😀 " /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rohitgundu?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="I don't drink coffee, teach me a skill 😀 " /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-shines&show_icons=true&locale=en&layout=compact" alt="rohit-shines" /></p>
