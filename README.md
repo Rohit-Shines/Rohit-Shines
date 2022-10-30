@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning 🧠 🧠 **Machine Learning , AI,**
 
+- 👨‍💻 My personal wesite in Progres Rohit website in progress
+
+https://rohitkumargundu.w3spaces.com/
+
 - 👯 I have domain knowledge of 📚📖 **Health care , Insurance**
 
 - 🤝 I’m looking for help with 🏢👨🏼‍🏭 **Job roles fits my skill set**
