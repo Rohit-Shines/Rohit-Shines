@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJjZTVsdXp5bWFxOW05Y2lybTNkdmMxcTU2Yjd0enc2d3ZkbG03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw2b2UycHF2YXRueGVvNzUyNTFiMXpycXd0OXd2N3JudXQ0eHdjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Rohit Kumar Gundu 😃</h1>
 <h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
