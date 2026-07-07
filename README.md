@@ -28,21 +28,25 @@ HL7 / FHIR / Healthcare Integration Specialist | Corepoint | Mirth | Rhapsody | 
 
 I am a **Healthcare Integration Specialist / HL7 Interface Developer** with **9+ years of experience** working across Canadian and international healthcare systems.
 
-My core expertise is in designing, developing, testing, troubleshooting, and supporting healthcare interfaces using:
+I design, develop, test, troubleshoot, and support healthcare interfaces that move critical clinical data between EMRs, integration engines, hospital applications, vendors, and patient-care workflows.
 
-- **HL7 v2.x**
-- **FHIR R4**
-- **Corepoint**
-- **Mirth / NextGen Connect**
-- **Rhapsody**
-- **Ensemble**
-- **Cloverleaf**
-- **Python**
-- **SQL**
-- **Linux**
-- **JSON / XML / CCDA**
+### 🚀 Core Skills
 
-I have worked on hospital integration projects involving **clinical systems, enterprise imaging workflows, ophthalmology workflows, breast imaging systems, PACS/RIS-style workflows, pharmacy automation, scheduling systems, patient-facing applications, and multiple downstream clinical applications**.
+<p align="center">
+  <img src="https://img.shields.io/badge/HL7%20v2.x-Interface%20Development-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FHIR%20R4-Healthcare%20APIs-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Corepoint-Integration%20Engine-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mirth%20%2F%20NextGen%20Connect-Healthcare%20Engine-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rhapsody-Integration%20Engine-7B2CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ensemble-InterSystems-C1121F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloverleaf-Integration%20Engine-6C757D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Automation-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Validation-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Troubleshooting-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON%20%2F%20XML%20%2F%20CCDA-Clinical%20Data-4A4A4A?style=for-the-badge" />
+</p>
+
+I have worked on hospital integration projects involving **clinical systems, EMR workflows, enterprise imaging, ophthalmology workflows, breast imaging systems, PACS/RIS-style workflows, pharmacy automation, scheduling systems, patient-facing applications, and multiple downstream clinical applications**.
 
 ---
 
@@ -93,6 +97,119 @@ I have worked on hospital integration projects involving **clinical systems, ent
   <img src="https://img.shields.io/badge/Ensemble-InterSystems-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloverleaf-Integration%20Engine-lightgrey?style=for-the-badge" />
 </p>
+
+### What I do inside integration engines
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔄 Interface Development
+- Routing
+- Filtering
+- Transformations
+- Message validation
+- Field mapping
+- Segment-level logic
+- Environment configuration
+
+</td>
+<td width="50%">
+
+### 🧪 Testing & Troubleshooting
+- ACK/NACK analysis
+- Message replay
+- Error handling
+- Interface monitoring
+- Queue review
+- Log analysis
+- RCA and production support
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 Go-Live Support
+- Cutover planning
+- Production moves
+- Dry-run validation
+- Vendor coordination
+- Post-go-live support
+- Issue triage
+
+</td>
+<td width="50%">
+
+### 📚 Documentation
+- Interface specifications
+- Mapping documents
+- Test cases
+- Knowledge base articles
+- Support notes
+- Operational handover
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🏥 EMR / Clinical Systems Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Epic-EMR%20Workflows-5B2C6F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle%20Health-Cerner%20Millennium-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MEDITECH-Clinical%20Systems-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/McKesson-Legacy%20Systems-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Allscripts-Clinical%20Apps-blueviolet?style=for-the-badge" />
+</p>
+
+I have worked around EMR/EHR and clinical application integration involving:
+
+- **Epic**
+- **Oracle Health / Cerner Millennium**
+- **MEDITECH**
+- **McKesson**
+- **Allscripts**
+- **eClinicalWorks**
+- **GE Healthcare systems**
+- **Philips systems**
+- **Siemens healthcare systems**
+- **Patient-facing healthcare applications**
+- **Legacy and downstream hospital applications**
 
 ---
 
@@ -174,37 +291,6 @@ I have worked on hospital integration projects involving **clinical systems, ent
 </td>
 </tr>
 </table>
-
----
-
-## 💻 Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-</p>
 
 ---
 
