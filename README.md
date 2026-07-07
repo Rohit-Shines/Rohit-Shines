@@ -42,11 +42,9 @@ My core expertise is in designing, developing, testing, troubleshooting, and sup
 - **Linux**
 - **JSON / XML / CCDA**
 
-I have worked on hospital integration projects involving **Cerner Millennium / Oracle Health, Epic, Meditech, McKesson, Allscripts, eClinicalWorks, GE Healthcare, Philips, Siemens, Topcon, Enterprise Imaging, BIS, PACS/RIS workflows, pharmacy systems, and other clinical applications**.
+I have worked on hospital integration projects involving **clinical systems, enterprise imaging workflows, ophthalmology workflows, breast imaging systems, PACS/RIS-style workflows, pharmacy automation, scheduling systems, patient-facing applications, and multiple downstream clinical applications**.
 
 ---
-
-## 🏥 Healthcare Integration Experience
 
 ## 🚀 What I Work On
 
@@ -79,9 +77,9 @@ I have worked on hospital integration projects involving **Cerner Millennium / O
 - **ORU** — Results and observations
 - **MDM** — Medical document management
 - **SIU** — Scheduling workflows
+- **MFN** — Master file notifications
 - **RDE / RDS / RXE** — Pharmacy workflows
 - **DFT** — Financial transactions
-- **MFN** — Master file notifications
 - **ACK/NACK** — Interface acknowledgements and error handling
 
 ---
@@ -95,6 +93,87 @@ I have worked on hospital integration projects involving **Cerner Millennium / O
   <img src="https://img.shields.io/badge/Ensemble-InterSystems-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloverleaf-Integration%20Engine-lightgrey?style=for-the-badge" />
 </p>
+
+---
+
+## 🏥 Healthcare Domains
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧾 Patient Administration
+- Patient demographics
+- Registration workflows
+- Admissions
+- Transfers
+- Discharges
+- MRN workflows
+- Visit information
+
+</td>
+<td width="50%">
+
+### 🧪 Orders and Results
+- Clinical orders
+- Imaging orders
+- Lab results
+- Observation results
+- Report routing
+- Document workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💊 Pharmacy
+- Medication orders
+- Pharmacy dispense workflows
+- Medication cabinets
+- Pharmacy automation
+- Inventory support
+- HL7 pharmacy messages
+
+</td>
+<td width="50%">
+
+### 🖼️ Imaging
+- Enterprise imaging
+- Ophthalmology workflows
+- Breast imaging workflows
+- Diagnostic imaging
+- PACS/RIS-style workflows
+- Imaging order/result flows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📅 Scheduling
+- Outpatient scheduling
+- Inpatient scheduling
+- Appointment workflows
+- SIU message validation
+- Clinical event coordination
+
+</td>
+<td width="50%">
+
+### 🚀 Go-Live Support
+- Cutover planning
+- Dry-run validation
+- Production moves
+- Message replay
+- Post-go-live stabilization
+- Vendor coordination
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,12 +200,6 @@ I have worked on hospital integration projects involving **Cerner Millennium / O
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
@@ -192,103 +265,14 @@ I have worked on hospital integration projects involving **Cerner Millennium / O
 
 ---
 
-## 📚 Certifications & Training
+## 🧠 My Integration Mindset
 
-- Corepoint / Lyniate Integration Engine
-- Deloitte HL7
-- Deloitte ITIL
-- SNOMED CT Foundation
-- ICD-10-CM
-- Healthcare Privacy and Security
-- HIPAA Privacy Rules
-- Python PCAP
-- AWS Solutions Architect Associate
-
----
-
-## 🔭 Currently Working On
-
-- Strengthening **FHIR R4** knowledge
-- Building healthcare integration learning projects
-- Practicing **Python + SQL** for interface automation
-- Creating HL7/FHIR documentation and examples
-- Learning AI-assisted troubleshooting for healthcare interfaces
-
----
-
-## 🌱 My GitHub Focus
-
-I use GitHub to document and build projects around:
-
-- Healthcare integration examples
-- HL7/FHIR learning
-- Python automation
-- SQL validation
-- API testing
-- Algorithms and problem solving
-- Personal portfolio experiments
-
----
-
-## 📂 Projects
-
-- 👨‍💻 **LeetCode / Algorithms / Python**  
-  [Leet Code Algorithms Repository](https://github.com/Rohit-Shines/Leet-Code--123Shines)
-
-- 🌐 **Personal Website — In Progress**  
-  [Rohit Website](https://rohitkumargundu.w3spaces.com/)
-
-- 📁 **All GitHub Repositories**  
-  [View My Projects](https://github.com/Rohit-Shines?tab=repositories)
-
----
-
-## 💬 Ask Me About
-
-<p>
-  <img src="https://img.shields.io/badge/HL7%20v2.x-Interface%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FHIR%20R4-Healthcare%20APIs-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Corepoint-Integration-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mirth-NextGen%20Connect-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rhapsody-Engine-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-Validation-lightgrey?style=for-the-badge" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/follow-me/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar gundu" height="35" width="45" />
-</a>
-
-<a href="https://leetcode.com/ankith-learn/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankith-learn" height="35" width="45" />
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-shines&show_icons=true&locale=en&theme=tokyonight" alt="rohit-shines" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-shines&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rohit-shines" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohit-shines&theme=onedark" alt="rohit-shines" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-I love solving real-world problems, breaking down complex workflows, and turning messy healthcare integration issues into clean, traceable message flows.
+```text
+1. Understand the clinical workflow.
+2. Read the HL7 message.
+3. Trace the route.
+4. Validate the transformation.
+5. Check the ACK/NACK.
+6. Review the logs.
+7. Confirm destination behaviour.
+8. Document the fix.
